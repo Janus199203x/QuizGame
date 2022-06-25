@@ -1,5 +1,4 @@
 # QuizGame
-
-
+punten
 
 masih belajar
