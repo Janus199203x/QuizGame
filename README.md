@@ -1,4 +1,0 @@
-# QuizGame
-punten
-
-masih belajar
